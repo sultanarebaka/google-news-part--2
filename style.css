@@ -3,7 +3,33 @@ body{
 
 }
   
- .first{
-  font-size: 10px;
-  font-weight: 500;
+.one{
+  font-size: 30px;
+  font-weight: 600;
  }
+
+ .two{
+  font-size:10px;
+  font-weight: 100;
+ }
+ .first {
+  margin-left:10px;
+  padding-top: 2px;
+ }
+
+
+
+
+ 
+ 
+ 
+.whiteboard{
+ 
+ width:400px;
+ height:400px;
+
+border-radius:16px 16px 16px 16px;
+background-color: aqua;
+
+
+}
