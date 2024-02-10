@@ -4,13 +4,17 @@ body{
 }
   
 .one{
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 600;
  }
 
  .two{
   font-size:10px;
   font-weight: 100;
+  font-family: "Google Sans Text","Roboto",sans-serif;
+    line-height: 1.4285714286;
+    color: rgb(95,99,104);
+    display: inline-flex;
  }
  .first {
   margin-left:10px;
