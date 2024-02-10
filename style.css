@@ -1,6 +1,6 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
-
+   background-color:#F7FBFC;
 }
   
 .one{
@@ -16,8 +16,9 @@ body{
   font-size:14px;
   font-weight: 100;
   font-family: "Google Sans Text","Roboto",sans-serif;
-    line-height: 1.4285714286;
-    color:black;
+    line-height: 2.2;
+    color:#827397;
+    padding-left: 3px;
     
  }
  .first {
@@ -33,12 +34,12 @@ body{
  
  
 .whiteboard{
- 
- width:400px;
- height:400px;
-
-border-radius:16px 16px 16px 16px;
-background-color: aqua;
+  
+ width:380px;
+ height:480px;
+margin-top: 22px;
+border-radius:18px 18px 18px 18px;
+background-color: white;
 
 
 }
@@ -48,5 +49,12 @@ background-color: aqua;
   width: 11px;
   height: 15px;
 }
+.heading{
+  display:flex;
+}
 
-
+.black{
+  width: 40px;
+  height: 40px;
+  display: flex;
+}
