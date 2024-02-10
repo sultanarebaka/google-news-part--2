@@ -5,20 +5,25 @@ body{
   
 .one{
   font-size: 28px;
-  font-weight: 600;
+  font-family: "Google Sans",sans-serif;
+  font-weight: 400;
+  color: black;
+
  }
 
  .two{
-  font-size:10px;
+  
+  font-size:14px;
   font-weight: 100;
   font-family: "Google Sans Text","Roboto",sans-serif;
     line-height: 1.4285714286;
-    color: rgb(95,99,104);
-    display: inline-flex;
+    color:black;
+    
  }
  .first {
-  margin-left:10px;
-  padding-top: 2px;
+  margin-left:21px;
+  padding-top: 15px;
+  
  }
 
 
@@ -37,3 +42,11 @@ background-color: aqua;
 
 
 }
+
+
+.image{
+  width: 11px;
+  height: 15px;
+}
+
+
