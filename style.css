@@ -1,3 +1,10 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
+
+
+
+
+
 body{
   font-family: Arial, Helvetica, sans-serif;
    background-color:#F7FBFC;
@@ -14,15 +21,15 @@ body{
  .two{
   
   font-size:14px;
-  font-weight: 100;
+  font-weight: 600;
   font-family: "Google Sans Text","Roboto",sans-serif;
     line-height: 2.2;
     color:#827397;
-    padding-left: 3px;
+    padding-left: 2px;
     
  }
  .first {
-  margin-left:21px;
+  margin-left:20px;
   padding-top: 15px;
   
  }
@@ -50,11 +57,26 @@ background-color: white;
   height: 15px;
 }
 .heading{
+  font-family: 'Roboto', sans-serif;
   display:flex;
+  padding: 18px;
+  font-size: 26px;
+  font-weight: 600;
+  gap:1px;
 }
 
-.black{
-  width: 40px;
-  height: 40px;
+.bdhr{
+  display: block;
+inline-size: 340px;
+color: #DDDDDD;
+margin-top: auto;
+  
+
+}
+
+.img-grter{
+  width:27px;
+  height:27px;
+  color:black;
   display: flex;
 }
