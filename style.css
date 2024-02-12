@@ -21,41 +21,43 @@ body{
     padding-left: 2px;
     
  }
+.image{
+  width: 11px;
+  height: 15px;
+}
+
  .first {
   margin-left:20px;
   padding-top: 15px;
+  
   
  }
 .whiteboard{
   
  width:380px;
  height:480px;
-margin-top: 22px;
+margin-top:10px;
 border-radius:18px 18px 18px 18px;
 background-color: white;
 
 
 }
-.image{
-  width: 11px;
-  height: 15px;
-}
-.heading{
+
+h1{
   font-family: 'Roboto', sans-serif;
   display:flex;
-  padding: 18px;
+  padding-top: 17px;
   font-size: 26px;
   font-weight: 600;
-  gap:1px;
-
+  padding-left: 14px;
+  
 }
 
-.bdhr{
-  display: block;
+hr{
 inline-size: 350px;
 color:#DDDDDD;
 border-bottom: 1px solid;
-margin-top: auto;
+margin-top: -7px;
  
 
 }
@@ -63,23 +65,31 @@ margin-top: auto;
   width:27px;
   height:27px;
   color:black;
-  display: flex;
+  display:flex;
+  
+}
+.whole{
+  margin-top: -15px;
+  padding-left:16px;
 }
 
 .img-yahoo{
   width: 100px;
   height: 65px;
   background-color: transparent;
-  margin-top: -10px;
-  padding-left: 12px;
+  
 }
 
 .img-nigro{
-  width: 20px;
-  height: 20px;
-  display: inline-block;
+  width: 60px;
+  height: 57px;
+  display: flex;
+  float: right;
 }
 .paragraph-1{
-  font-size: 10px;
+  font-size: 15px;
   font-weight: 500;
+margin-top: -25px;
+
+
 }
