@@ -69,8 +69,9 @@ margin-top: -7px;
   
 }
 .whole{
-  margin-top: -15px;
+margin-top: -15px;
   padding-left:16px;
+  margin-right: 18px;
 }
 
 .img-yahoo{
@@ -78,18 +79,21 @@ margin-top: -7px;
   height: 65px;
   background-color: transparent;
   
+  
 }
-
-.img-nigro{
-  width: 60px;
-  height: 57px;
-  display: flex;
-  float: right;
+.img-nnnig{
+  width: 90px;
+  height: 87px;
+  top:60px;
+  display: inline;
+  border-radius: 10px 10px 10px 10px;
 }
 .paragraph-1{
   font-size: 15px;
   font-weight: 500;
 margin-top: -25px;
-
-
 }
+.tw-item{
+  display: inline-block;
+}
+
