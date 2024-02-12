@@ -69,24 +69,29 @@ margin-top: -7px;
   
 }
 .whole{
-margin-top: -15px;
+margin-top: -13px;
   padding-left:16px;
   margin-right: 18px;
 }
 
 .img-yahoo{
-  width: 100px;
-  height: 65px;
+  width: 110px;
+  height: 77px;
   background-color: transparent;
   
   
 }
 .img-nnnig{
-  width: 90px;
-  height: 87px;
-  top:60px;
-  display: inline;
-  border-radius: 10px 10px 10px 10px;
+  display: inline-block;
+  margin-top: 0px;
+
+}
+.img-nigro{
+  width: 82px;
+  height: 82px;
+  display: inline-block;
+  margin-left: 17px;
+  border-radius: 19px 19px 19px 19px;
 }
 .paragraph-1{
   font-size: 15px;
