@@ -90,7 +90,7 @@ margin-top: -13px;
   width: 87px;
   height: 85px;
   display: inline-block;
-  margin-top: -108px;
+  margin-top: -100px;
   float: right;
   margin-right: 10px;
   
@@ -115,4 +115,18 @@ margin-top: -25px;
 span{
   font-size: 9px;
   padding: 2px;
+  
+}
+.date{
+  margin-top: -7px;
+
+}
+
+.img-fullcov{
+  width:15px;
+  height: 15px;
+  float: right;
+  display:inline-block;
+  justify-content:space-between ;
+
 }
