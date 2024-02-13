@@ -50,6 +50,7 @@ h1{
   font-size: 26px;
   font-weight: 600;
   padding-left: 20px;
+  margin-bottom: 8px;
 }
 div .bo-bo:before{
   content:'';
@@ -86,34 +87,36 @@ div.bo-bo{
 .whole{
   padding-left:16px;
   margin-right: 18px;
+  
 }
 
-.img-yahoo{
-  width: 110px;
-  height: 77px;
-  background-color: transparent;
+h2{
+  font-size: 15px;
+  color: red;
+  padding: 1px;
   
   
 }
-.img-nnnig{
-  display: inline-block;
-  margin-right: 0px;
 
-}
+
 .img-nigro{
   width: 87px;
   height: 85px;
-  display: inline-block;
-
+  display: inline-flex;
   float: right;
-  margin-right: 10px;
+  
+
+  
+  margin-right: 0px;
   
   border-radius: 17px 17px 17px 17px;
 }
 .paragraph-1{
   word-spacing: 1px;
-  font-size: 15px;
+  font-size: 1px;
   font-weight: 510;
+  color: #000;
+ 
 
 }
 .tw-item{
@@ -131,10 +134,7 @@ span{
   padding: 2px;
   
 }
-.date{
-  margin-top: 0px;
 
-}
 
 .img-fullcov{
   width:15px;
