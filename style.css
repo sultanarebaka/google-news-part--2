@@ -87,22 +87,24 @@ div.bo-bo{
 .whole{
   padding-left:16px;
   margin-right: 18px;
-  
+  display: inline-block;
 }
 
 h2{
   font-size: 15px;
   color: red;
-  padding: 1px;
+  padding-top: 1px;
   
   
 }
-
+.por{
+  display: inline-block;
+}
 
 .img-nigro{
   width: 87px;
   height: 85px;
-  display: inline-flex;
+  display: inline-block;
   float: right;
   
 
