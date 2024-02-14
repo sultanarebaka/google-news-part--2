@@ -31,9 +31,22 @@
 }
 
 
-.img-nig{
+.flex-container--2{
     display: flex;
+    
     flex-direction: column;
     width: 20px;
     height: 20px;
+}
+.img-nig{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.paragraph-2{
+
+    flex-direction: column;
 }
