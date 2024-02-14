@@ -7,9 +7,21 @@
 .img-grter{
     width: 20px;
     height: 20px;
-    display:inline-block;
+    
 }
  
-.heaa-two{
-    display:inline-flex;
+.flex-container{
+    display: flex;
+}
+.border{
+    border-bottom: 1px solid;
+    border-color: red;
+    inline-size: 270px;
+    margin-left: 13px;
+    padding-top: 4px;
+}
+.img-yahoo{
+    width: 86px;
+    height: 60px;
+    background-color: transparent;
 }
