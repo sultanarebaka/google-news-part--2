@@ -1,149 +1,15 @@
-  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
-
-body{
-  font-family: Arial, Helvetica, sans-serif;
-   background-color:#F7FBFC;
+.whtbd{
+    width:300px;
+    height: 300px;
+    background-color:yellow;
 }
-.one{
-  font-size: 28px;
-  font-family: "Google Sans",sans-serif;
-  font-weight: 400;
-  color: black;
-
- }
- .two{
-  
-  font-size:13px;
-  font-weight: 800;
-  font-family: "Google Sans Text","Roboto",sans-serif;
-    line-height: 2.1;
-    color:#827397;
-    padding-left: 2px;
-    
- }
-.image{
-  width: 11px;
-  height: 15px;
-}
-
- .first {
-  margin-left:20px;
-  padding-top: 15px;
-  
-  
- }
-.whiteboard{
-  
- width: 380px;
- height: 480px;
-
-border-radius:18px 18px 18px 18px;
-background-color: white;
-
-
-}
-
-h1{
-  font-family: 'Roboto', sans-serif;
-  display:flex;
-  padding-top: 17px;
-  font-size: 26px;
-  font-weight: 600;
-  padding-left: 20px;
-  margin-bottom: 8px;
-}
-div .bo-bo:before{
-  content:'';
-  position: absolute;
-  left:7px;
-  bottom:0;
-  width:337px;
- height: 0px; 
-  border-bottom: 2px solid #DDDDDD;
-
-}
-
-div.bo-bo{
-  
-  z-index: 1;
-  position: relative;
-  
-  height: 0px;
-  margin-left: 13px;
-  padding: 0px;
-  color: #DDDDDD;
-
-
-}
-
 
 .img-grter{
-  width:27px;
-  height:27px;
-  color:black;
-  display:flex;
-  
+    width: 20px;
+    height: 20px;
+    display:inline-block;
 }
-.whole{
-  padding-left:16px;
-  margin-right: 18px;
-  display: inline-block;
-}
-
-h2{
-  font-size: 15px;
-  color: red;
-  padding-top: 1px;
-  
-  
-}
-.por{
-  display: inline-block;
-}
-
-.img-nigro{
-  width: 87px;
-  height: 85px;
-  display: inline-block;
-  float: right;
-  
-
-  
-  margin-right: 0px;
-  
-  border-radius: 17px 17px 17px 17px;
-}
-.paragraph-1{
-  word-spacing: 1px;
-  font-size: 1px;
-  font-weight: 510;
-  color: #000;
  
-
-}
-.tw-item{
-  display: inline-block;
-}
-.img-ddoot{
-  width: 3px;
-  height: 3px;
-  background-color: transparent;
-  padding: 2px;
-  
-}
-span{
-  font-size: 9px;
-  padding: 2px;
-  
-}
-
-
-.img-fullcov{
-  width:15px;
-  height: 15px;
-  
-  display:flex;
-  
-  
-
+.heaa-two{
+    display:inline-flex;
 }
