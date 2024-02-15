@@ -27,6 +27,7 @@
     padding-left:8px;
     width: 96px;
     height: 30px;
+    flex-direction: initial;
     background-color: transparent;
 }
 
@@ -38,12 +39,17 @@
     width: 20px;
     height: 20px;
 }
+.head-column{
+    flex: 1;
+    flex-direction: column;
+}
 .img-nig{
     width: 40px;
     height: 40px;
-    display: flex;
-    flex-wrap: wrap;
+    
+    flex: 1;
     flex-direction: row;
+    
 
 }
 .paragraph-2{
