@@ -35,24 +35,66 @@
 .flex-container--2{
     display: flex;
     
-    flex-direction: column;
+    
     width: 20px;
     height: 20px;
 }
-.head-column{
-    flex: 1;
-    flex-direction: column;
-}
+
 .img-nig{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     
-    flex: 1;
+    padding-top: 10px;
+    margin-left: 10px;
     flex-direction: row;
     
+    
 
 }
-.paragraph-2{
 
-    flex-direction: column;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading-container {
+    display: flex;
+    width: 100%;
+    margin: 0 auto; /* Center horizontally */
+  }
+  
+  .heading-column {
+    flex: 1; /* Allow column to grow as needed */
+    display: flex;
+    flex-direction: column; /* Arrange headings vertically */
+    align-items: center; /* Center headings within column */
+  }
+  
+  .heading {
+    margin: 10px 0; /* Add vertical spacing between headings */
+    text-align: center;
+  }
+  
+  .heading-image {
+    flex: 1; /* Allow image to grow as needed */
+    width: 50%; /* Set desired image width (adjust as needed) */
+    margin: 0 auto; /* Center image horizontally */
+  }
+  
