@@ -52,8 +52,18 @@
 
 }
 
-
-
+.img-fuuul9{
+    width: 20px;
+    height: 20px;
+    float: right;
+    
+}
+.bottom-1{
+    border-bottom: 1px solid;
+    border-color: blue;
+    margin-left: 10px;
+    inline-size: 230px;
+}
 
 
 
