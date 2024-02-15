@@ -58,11 +58,13 @@
     float: right;
     
 }
-.bottom-1{
+.border-1{
     border-bottom: 1px solid;
     border-color: blue;
-    margin-left: 10px;
-    inline-size: 230px;
+    margin-left: 17px;
+    height: 100px;
+    inline-size: 265px;
+    display: block;
 }
 
 
