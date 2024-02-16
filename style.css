@@ -1,9 +1,26 @@
-.whtbd{
-    width:300px;
-    height: 300px;
-    background-color:yellow;
+.whole{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
-
+.image-cust{
+    width: 20px;
+    height: 20px;
+}
+.custo{
+    width: 100px;
+    height: 37px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 19px 17px 17px 17px;
+    background-color: brown;
+    color:#2541B2;
+    margin-right: 20px;
+    
+}
+.image-cust{
+    color: #2541B2;
+}
 .img-grter{
     width: 20px;
     height: 20px;
@@ -73,14 +90,22 @@
 }
 .whiteboard {
     background-color: white;
-    border: 1px solid black;
-    width: 300px; /* Adjust width as needed */
-    height: 200px; /* Adjust height as needed */
-    margin: 1px; /* Add spacing around whiteboards */
+    margin: 1px;
+    
+
 }
 
+.whiteboard-2{
+    background-color: white;
+    margin: 1px;
 
+    
 
+}
+.whiteboard-3{
+    background-color: white;
+    margin: 1px;
+}
 
 
 
