@@ -95,13 +95,16 @@
 .whiteboard {
     background-color: white;
     margin: 1px;
-    
+    width: 400px;
+    height: 380px;
 
 }
 
 .whiteboard-2{
     background-color: white;
     margin: 1px;
+    width: 400px;
+    height: 380px;
 
     
 
@@ -109,6 +112,9 @@
 .whiteboard-3{
     background-color: white;
     margin: 1px;
+    height: 380px;
+    height: 380px;
+
 }
 
 
