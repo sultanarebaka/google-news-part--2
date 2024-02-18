@@ -21,6 +21,12 @@
     margin-right: 20px;
     
 }
+.img-listed{
+    width: 12px;
+    height: 17px;
+    padding-left: 6px;
+    
+}
 .image-cust{
     color: #2541B2;
 
@@ -68,9 +74,10 @@
     padding-top: 10px;
     margin-left: 10px;
     flex-direction: row;
-    
-    
-
+}
+.img-trop{
+    width: 30px;
+    height: 30px;
 }
 
 .img-fuuul9{
@@ -78,6 +85,60 @@
     height: 20px;
     float: right;
     
+}
+.img-ex{
+    width: 15px;
+    height: 15px;
+    display: flex;
+}
+.img-cccn{
+    width: 15px;
+    height: 15px;
+}
+.img-the-wh{
+    width: 50px;
+    height: 30px;
+}
+.img-taylor-sw{
+    width: 25px;
+    height: 20px;
+}
+.img-buzz{
+    width: 25px;
+    height: 25px;
+}
+.img-eee{
+    width: 20px;
+    height: 20px;
+}
+.img-gsm{
+    width: 20px;
+    height: 20px;
+}
+.img-sui{
+    width: 20px;
+    height: 20px;
+}
+.item{
+    display: flex;
+    flex-direction: row;
+}
+.item-2{
+    display: flex;
+    flex-direction:row;
+
+}
+.item-3{
+    display: flex;
+    flex-direction: row;
+}
+.item-4{
+    display: flex;
+    flex-direction: row;
+}
+.item-5{
+    display: flex;
+    flex-direction: row;
 }
 .border-1{
     border-bottom: 1px solid;
@@ -145,7 +206,7 @@
   }
   
   .heading {
-    margin: 10px 0; /* Add vertical spacing between headings */
+    margin: 0px 0; /* Add vertical spacing between headings */
     text-align: center;
   }
   
