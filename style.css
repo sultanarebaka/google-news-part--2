@@ -181,7 +181,10 @@
 
 }
 
-
+.paragraph-2{
+    text-align: flex;
+    flex-direction: column;
+}
 
 
 
