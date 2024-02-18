@@ -4,6 +4,9 @@
     justify-content: space-between;
     padding-top: 20px;
 }
+.paragraph-2{
+    display: block;
+}
 .image-cust{
     width: 20px;
     height: 20px;
@@ -156,16 +159,16 @@
 .whiteboard {
     background-color: white;
     margin: 1px;
-    width: 400px;
-    height: 380px;
+    width: 700px;
+    height: 580px;
 
 }
 
 .whiteboard-2{
     background-color: white;
     margin: 1px;
-    width: 400px;
-    height: 380px;
+    width: 700px;
+    height: 580px;
 
     
 
@@ -173,8 +176,8 @@
 .whiteboard-3{
     background-color: white;
     margin: 1px;
-    height: 380px;
-    height: 380px;
+    height: 780px;
+    height: 580px;
 
 }
 
