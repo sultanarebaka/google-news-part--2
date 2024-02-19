@@ -16,7 +16,7 @@ body{
 }
 
 .flex-container-new{
-    
+    width:90px;
     flex-direction: column;
     
 }
@@ -71,19 +71,18 @@ body{
     padding-top: 4px;
 }
 .img-yahoo{
-    padding-top: 8px;
-    padding-left:8px;
+    
+    
     width: 96px;
     height: 30px;
-    flex-direction: initial;
+    flex-direction: row;
+    float:right;
     background-color: transparent;
 }
 
 
 .flex-container--2{
-    display: flex;
-    
-    
+    display: flex; 
     width: 20px;
     height: 20px;
 }
@@ -91,10 +90,9 @@ body{
 .img-nig{
     width: 30px;
     height: 30px;
+    float: right;
     
     padding-top: 10px;
-    margin-left: 10px;
-    flex-direction: row;
 }
 .img-trop{
     width: 30px;
