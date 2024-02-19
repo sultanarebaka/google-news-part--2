@@ -10,8 +10,14 @@ body{
     padding-top: 20px;
     padding-left: 20px;
 }
-.paragraph-2{
-    display: block;
+.flex-container-new{
+    display: flex;
+    flex-direction: column;
+
+}
+.flex-container-new > .pa{
+    display: flex;
+    flex-direction: column;
 }
 .image-cust{
     width: 20px;
@@ -189,10 +195,6 @@ body{
 
 }
 
-.paragraph-2{
-    text-align: flex;
-    flex-direction: column;
-}
 
 
 
