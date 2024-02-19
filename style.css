@@ -1,6 +1,10 @@
+
 body{
-    background-color: #F2F4FB;
+    background-color: #F2FAFB;
+    font-family: "Open sans, sans serif";
 }
+
+
 
 
 .whole{
@@ -10,15 +14,13 @@ body{
     padding-top: 20px;
     padding-left: 20px;
 }
-.flex-container-new{
-    display: flex;
-    flex-direction: column;
 
-}
-.flex-container-new > .pa{
-    display: flex;
+.flex-container-new{
+    
     flex-direction: column;
+    
 }
+
 .image-cust{
     width: 20px;
     height: 20px;
@@ -54,8 +56,12 @@ body{
  
 .flex-container{
     display: flex;
-    padding-top: 10px;
-    padding-left: 12px;
+    padding-top: 15px;
+    padding-left: 4px;
+}
+.us{
+    font-size: 19px;
+    font-family:"open sans, sans serif" ;
 }
 .border{
     border-bottom: 1px solid;
@@ -174,7 +180,8 @@ body{
     margin: 1px;
     width: 350px;
     height: 495px;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 23px 23px 23px 23px;
+    padding-left: 20px;
 
 }
 
@@ -205,6 +212,7 @@ body{
 .parr{
     font-size: 13px;
     font-weight: 400;
+    padding-bottom: 20px;
 
 }
 .heaa{
