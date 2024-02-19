@@ -16,8 +16,10 @@ body{
 }
 
 .flex-container-new{
-    width:90px;
-    flex-direction: column;
+    
+    position: relative;
+    
+    
     
 }
 
@@ -76,7 +78,7 @@ body{
     width: 96px;
     height: 30px;
     flex-direction: row;
-    float:right;
+    
     background-color: transparent;
 }
 
@@ -85,12 +87,16 @@ body{
     display: flex; 
     width: 20px;
     height: 20px;
+    justify-content: space-between;
+    
 }
 
 .img-nig{
     width: 30px;
     height: 30px;
     float: right;
+    position: absolute;
+
     
     padding-top: 10px;
 }
