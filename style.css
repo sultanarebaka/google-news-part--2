@@ -51,3 +51,47 @@ body {
     margin: 0 auto;
 
 }
+
+
+.flex-container--3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Adjust spacing as needed */
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.head-column-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 32%; /* Adjust width as needed */
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Aligns elements vertically */
+    gap: 20px; /* Adjust spacing between elements */
+}
+
+.img-yaho, .img-yahoo {
+    margin: 0; /* Remove default margins for both elements */
+}
+
+.Image1{
+    width: 100%;
+    max-width: 200px; /* Adjust max-width as needed */
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Adjust spacing as needed */
+    width: 100vw;
+    margin: 0 auto;
+
+}
