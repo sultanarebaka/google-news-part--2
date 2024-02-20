@@ -43,7 +43,13 @@ body {
     width: 100%;
     max-width: 200px; /* Adjust max-width as needed */
 }
-.item{
+
+
+
+
+
+
+.flex-container-3{
     display: flex;
     flex-direction: row;
     justify-content: space-between; /* Adjust spacing as needed */
@@ -51,15 +57,15 @@ body {
     margin: 0 auto;
 
 }
-
-
-.flex-container--3{
+.item {
     display: flex;
     flex-direction: row;
-    justify-content: space-between; /* Adjust spacing as needed */
-    width: 100vw;
-    margin: 0 auto;
+    align-items: center; /* Aligns elements vertically */
+    gap: 20px; /* Adjust spacing between elements */
 }
+
+
+
 
 .head-column-1 {
     display: flex;
@@ -72,14 +78,9 @@ body {
     box-sizing: border-box;
 }
 
-.item {
-    display: flex;
-    flex-direction: row;
-    align-items: center; /* Aligns elements vertically */
-    gap: 20px; /* Adjust spacing between elements */
-}
 
-.img-yaho, .img-yahoo {
+
+.img-ex, .re {
     margin: 0; /* Remove default margins for both elements */
 }
 
