@@ -9,7 +9,7 @@ body {
     font-family: sans-serif;
 }
 
-.container {
+.flex-container--2 {
     display: flex;
     flex-direction: row;
     justify-content: space-between; /* Adjust spacing as needed */
@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
 }
 
-.whiteboard {
+.head-column {
     display: flex;
     flex-direction: column;
     background-color: white;
@@ -35,11 +35,19 @@ body {
     gap: 20px; /* Adjust spacing between elements */
 }
 
-h2, p {
+.img-yaho, .img-yahoo {
     margin: 0; /* Remove default margins for both elements */
 }
 
-img {
+.Image1{
     width: 100%;
     max-width: 200px; /* Adjust max-width as needed */
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Adjust spacing as needed */
+    width: 100vw;
+    margin: 0 auto;
+
 }
