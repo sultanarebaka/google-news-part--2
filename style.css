@@ -53,12 +53,20 @@
     
 }
 
-.img-yahoo{
+.image-yahoo{
     
     
-    width: 96px;
-    height: 30px;
+    width: 48px;
+    height: 40px;
     flex-direction: row;
     
     background-color: transparent;
+}
+.img-doot{
+    width: 6px;
+    height: 5px;
+}
+.image-nig{
+    width: 20px;
+    height: 20px;
 }
