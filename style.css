@@ -1,57 +1,64 @@
-
-body{
-    background-color: #F2FAFB;
-    font-family: "Open sans, sans serif";
-}
 .whole{
     display: flex;
+
     flex-direction: row;
     justify-content: space-between;
     padding-top: 20px;
     padding-left: 20px;
 }
+.img-listed{
+    width: 12px;
+    height: 17px;
+    padding-left: 6px;
+    
+}
+.parr{
+    font-size: 13px;
+    font-weight: 400;
+    padding-bottom: 20px;
+
+}
+.heaa{
+    font-size: 30px;
+    font-weight: 500;
+}
+.image-cust{
+    color: #2541B2;
+
+}
+
 .image-cust{
     width: 20px;
     height: 20px;
 }
-.container {
+.custo{
+    width: 110px;
+    height: 31px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between; /* Adjust spacing as needed */
-    width: 100px;
-    margin: 0 auto;
+    border-radius: 19px;
+    border:2px solid red;
+    align-items: center;
+    padding-right: 10px;
+    color:#2541B2;
+    margin-right: 20px;
+    
 }
 
-.whiteboard {
-    display: flex;
-    flex-direction: column;
-    background-color: white;
-    border: 1px solid #ccc;
-    padding: 20px;
-    width: 92px; /* Adjust width as needed */
-    margin: 10px;
-    box-sizing: border-box;
-}
-
-.content {
-    display: flex;
-    flex-direction: row;
-    align-items: center; /* Aligns elements vertically */
-    gap: 20px; /* Adjust spacing between elements */
-}
-
-.img-yahoo, .img-yahoo {
-    margin: 0; /* Remove default margins for both elements */
-}
-
-img {
-    width: 100px;
-    max-width: 200px; /* Adjust max-width as needed */
-}
 .flex-container--2{
-    display: flex;
-    flex-direction: row;
+    display: flex; 
+    width: 20px;
+    height: 20px;
     justify-content: space-between;
-    width: 100px;
-    margin:0 auto;
+    
+}
+
+.img-yahoo{
+    
+    
+    width: 96px;
+    height: 30px;
+    flex-direction: row;
+    
+    background-color: transparent;
 }
