@@ -64,7 +64,7 @@ body{
     width: 48px;
     height: 40px;
     flex-direction: row;
-    
+    padding-top: 7px;
     background-color: transparent;
 }
 .img-doot{
@@ -74,7 +74,7 @@ body{
 .image-nig{
     width: 90px;
     height: 90px;
-    padding-top: 6px;
+    padding-top: 0px;
     border-radius:13px 13px 13px 13px;
 }
 span{
@@ -90,7 +90,7 @@ span{
 .content{
     display: flex;
     flex-direction: row;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-left: 18px;
 }
 .img-fuuul9{
@@ -107,9 +107,10 @@ span{
 .border{
     border-bottom: 1px solid;
     border-color:#DDDDDD;
-    inline-size: 280px;
-    margin-left: 13px;
-    padding-top: 4px;
+    inline-size: 323px;
+    margin-left: 19px;
+    padding-top: 9px;
+    
 }
 .container {
     display: flex;
@@ -119,7 +120,7 @@ span{
 .whiteboard {
     background-color: white;
     margin: 1px;
-    width: 360px;
+    width: 367px;
     height: 479px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
@@ -135,7 +136,15 @@ span{
 }
 .shoo{
     padding-left: 18px;
+    
 }
 .sp{
     padding-left: 18px;
+    
+}
+.img-fuuu{
+    float:right;
+    width: 20px;
+    height: 20px;
+    padding-left:33px;
 }
