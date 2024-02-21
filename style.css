@@ -46,8 +46,7 @@ body{
     align-items: center;
     padding-right: 10px;
     color:#2541B2;
-    margin-right: 20px;
-    
+    margin-right: 20px;   
 }
 
 .flex-container--2{
@@ -56,8 +55,7 @@ body{
     width: 20px;
     height: 20px;
     gap:210px;
-    padding-top: 5px;
-    
+    padding-left: 10px;
 }
 
 .image-yahoo{
@@ -85,13 +83,15 @@ span{
 .img-grter{
     width: 20px;
     height: 20px;
+    padding-top: 10px;
+    
     
 }
 .content{
     display: flex;
     flex-direction: row;
-    padding-top: 1px;
-    padding-left: 4px;
+    padding-top: 0px;
+    padding-left: 18px;
 }
 .img-fuuul9{
     width: 20px;
@@ -119,14 +119,23 @@ span{
 .whiteboard {
     background-color: white;
     margin: 1px;
-    width: 350px;
-    height: 495px;
+    width: 360px;
+    height: 479px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
 
 }
 .us{
+    padding-top: 10px;
     font-size: 19px;
     font-family:"open sans, sans serif" ;
 }
-
+.head-column{
+    padding-left:10px;
+}
+.shoo{
+    padding-left: 18px;
+}
+.sp{
+    padding-left: 18px;
+}
