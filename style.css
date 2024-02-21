@@ -1,3 +1,8 @@
+body{
+    background-color: #F2FAFB;
+    font-family: "Open sans, sans serif";
+}
+
 .whole{
     display: flex;
 
@@ -46,10 +51,12 @@
 }
 
 .flex-container--2{
-    display: flex; 
+    display: flex;
+    flex-direction: row;
     width: 20px;
     height: 20px;
-    justify-content: space-between;
+    gap:210px;
+    padding-top: 5px;
     
 }
 
@@ -67,6 +74,59 @@
     height: 5px;
 }
 .image-nig{
+    width: 90px;
+    height: 90px;
+    padding-top: 6px;
+    border-radius:13px 13px 13px 13px;
+}
+span{
+    font-size: 20px;
+}
+.img-grter{
     width: 20px;
     height: 20px;
+    
 }
+.content{
+    display: flex;
+    flex-direction: row;
+    padding-top: 1px;
+    padding-left: 4px;
+}
+.img-fuuul9{
+    width: 20px;
+    height: 20px;
+    
+    
+}
+.sp{
+    display: flex;
+    flex-direction: row;
+    gap:60px;
+}
+.border{
+    border-bottom: 1px solid;
+    border-color:#DDDDDD;
+    inline-size: 280px;
+    margin-left: 13px;
+    padding-top: 4px;
+}
+.container {
+    display: flex;
+    flex-direction: row; /* Arrange whiteboards horizontally */
+    padding-left: 16px;
+}
+.whiteboard {
+    background-color: white;
+    margin: 1px;
+    width: 350px;
+    height: 495px;
+    border-radius: 23px 23px 23px 23px;
+    padding-left: 0px;
+
+}
+.us{
+    font-size: 19px;
+    font-family:"open sans, sans serif" ;
+}
+
