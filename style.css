@@ -8,8 +8,8 @@ body{
 
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 20px;
-    padding-left: 20px;
+    padding-top: 7px;
+    padding-left: 24px;
 }
 .img-listed{
     width: 12px;
@@ -20,12 +20,13 @@ body{
 .parr{
     font-size: 13px;
     font-weight: 400;
-    padding-bottom: 20px;
+    padding-bottom: 14px;
 
 }
 .heaa{
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 500;
+    font-family: "Open sans", sans-serif;
 }
 .image-cust{
     color: #2541B2;
@@ -54,31 +55,34 @@ body{
     flex-direction: row;
     width: 20px;
     height: 20px;
-    gap:210px;
+    gap:165px;
     padding-left: 10px;
+    padding-top: 12px;
+    
 }
 
 .image-yahoo{
     
     
-    width: 48px;
-    height: 40px;
+    width: 79px;
+    height: 30px;
     flex-direction: row;
-    padding-top: 7px;
+    
     background-color: transparent;
 }
 .img-doot{
-    width: 6px;
-    height: 5px;
+    width: 3px;
+    height: 3px;
 }
 .image-nig{
-    width: 90px;
-    height: 90px;
-    padding-top: 0px;
-    border-radius:13px 13px 13px 13px;
+    width: 83px;
+    height: 89px;
+    
+    flex-direction: row;
+    border-radius:11px 11px 11px 11px;
 }
 span{
-    font-size: 20px;
+    font-size: 15px;
 }
 .img-grter{
     width: 20px;
@@ -90,25 +94,29 @@ span{
 .content{
     display: flex;
     flex-direction: row;
-    padding-top: 10px;
+    padding-top: 6px;
     padding-left: 18px;
 }
-.img-fuuul9{
+.img-fuuul{
     width: 20px;
     height: 20px;
-    
+    padding-top: 3px;
+    padding-left: 92px;
     
 }
 .sp{
     display: flex;
     flex-direction: row;
     gap:60px;
+    padding-top: 7px;
+    padding-left: 18px;
 }
+
 .border{
-    border-bottom: 1px solid;
+    border-bottom: 1.6px solid;
     border-color:#DDDDDD;
-    inline-size: 323px;
-    margin-left: 19px;
+    inline-size: 320px;
+    margin-left: 25px;
     padding-top: 9px;
     
 }
@@ -117,34 +125,240 @@ span{
     flex-direction: row; /* Arrange whiteboards horizontally */
     padding-left: 16px;
 }
-.whiteboard {
-    background-color: white;
-    margin: 1px;
-    width: 367px;
-    height: 479px;
-    border-radius: 23px 23px 23px 23px;
-    padding-left: 0px;
 
-}
 .us{
     padding-top: 10px;
     font-size: 19px;
     font-family:"open sans, sans serif" ;
 }
 .head-column{
-    padding-left:10px;
+    
+padding-left:10px;
+display: flex;
+flex-direction: row;
+gap:4px;
 }
+
 .shoo{
+    line-height:21px;
+    font-size: 16px;
+}
+
+
+.grief{
     padding-left: 18px;
+    padding-top: 10px;
     
 }
-.sp{
+.sp-1{
+    padding-left: 21px;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: row;
+    gap:46px;
+    padding-top: 7px;
     padding-left: 18px;
-    
+
 }
 .img-fuuu{
     float:right;
     width: 20px;
     height: 20px;
-    padding-left:33px;
+     padding-left:83px;
+    padding-top: 3px;
+}
+.whiteboard{
+    
+    background-color: white;
+    margin: 1px;
+    width: 367px;
+    height: 497px;
+    border-radius: 23px 23px 23px 23px;
+    padding-left: 0px;
+}
+
+.flex-container--3{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:167px;
+    padding-left: 7px;
+    padding-top: 13px;
+}
+.image-ex{
+    width: 17px;
+    height: 17px;
+
+}
+.head-column-1{
+    padding-left:15px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+
+}
+.re{
+    font-size: 17px;
+}
+.image-bi{
+    width: 82px;
+    height:81px;
+    border-radius: 11px 11px 11px 11px;
+}
+.hooo{
+    padding-left: 18px;
+}
+
+.border-1{
+border-bottom: 1.5px solid;
+border-color: #DDDDDD;
+inline-size: 320px;
+margin-left: 25px;
+padding-top: 13px;
+
+}
+.gb{
+    padding-top: 8px;
+    line-height: 22px;
+    padding-left: 3px;
+}
+
+.flex-container--4{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:167px;
+    padding-left: 7px;
+    padding-top: 13px;
+}
+.border-2{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 320px;
+    margin-left: 25px;
+    padding-top: 13px;
+
+}
+.head-column-2{
+    padding-left:15px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+}
+
+.re-2{
+font-size: 17px;
+}
+.yooo{
+    padding-left: 18px;
+    
+}
+.sp-2{
+    padding-left: 21px;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: row;
+    gap:4;
+    padding-top: 7px;
+    padding-left: 18px;
+}
+.trd{
+    padding-top: 8px;
+    line-height: 22px;
+    padding-left: 3px;
+
+}
+.img-full{
+    float:right;
+    width: 20px;
+    height: 20px;
+    padding-left:138px;
+    padding-top: 2px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bod{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+contai {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Adjust spacing as needed */
+    width: 100vw;
+    margin: 0 auto;
+}
+
+white {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 32%; /* Adjust width as needed */
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Aligns elements vertically */
+    gap: 20px; /* Adjust spacing between elements */
+}
+h {
+    margin: 0; /* Remove default margins for both elements */
+}
+im{
+    width: 100%;
+    max-width: 200px; /* Adjust max-width as needed */
 }
