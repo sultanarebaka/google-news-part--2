@@ -9,7 +9,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     padding-top: 7px;
-    padding-left: 24px;
+ margin-left: 38px;
 }
 .img-listed{
     width: 12px;
@@ -42,7 +42,7 @@ body{
     display: flex;
     flex-direction: row;
     border-radius: 19px;
-    border:2px solid red;
+    border:2px solid #35374B;
     align-items: center;
     padding-right: 10px;
     color:#2541B2;
@@ -172,7 +172,7 @@ gap:4px;
     float:right;
     width: 20px;
     height: 20px;
-     padding-left:83px;
+     padding-left:9px;
     padding-top: 3px;
 }
 .whiteboard{
@@ -306,12 +306,12 @@ font-size: 17px;
 }
 .flex-container--5{
     display: flex;
-    
+    flex-direction: row;
     width: 20px;
     height: 20px;
     gap:164px;
     padding-left: 5px;
-    padding-top: 13px;
+    padding-top: 1px;
 }
 .head-column-3{
     padding-left:15px;
@@ -328,8 +328,28 @@ font-size: 17px;
     padding-left: 0px;
 }
 
+.sp-3{
+    padding-left: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: inline;
+    gap:22px;
+    font-size: 1px;
+    padding-top: 19px;
+    padding-left: 18px;
+}
+.last{
+    font-size: 13px;
+}
 
-
+.image-who{
+    
+    
+    width: 79px;
+    height: 30px;
+    flex-direction: row;
+    background-color: transparent;
+}
 
 
 
