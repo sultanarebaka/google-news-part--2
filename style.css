@@ -32,7 +32,6 @@ body{
     color: #2541B2;
 
 }
-
 .image-cust{
     width: 20px;
     height: 20px;
@@ -52,7 +51,8 @@ body{
 
 .flex-container--2{
     display: flex;
-    flex-direction: row;
+    
+    
     width: 20px;
     height: 20px;
     gap:165px;
@@ -168,17 +168,19 @@ gap:4px;
     padding-top: 3px;
 }
 .whiteboard{
-    
     background-color: white;
-    margin: 1px;
+    margin:1px;
     width: 367px;
     height: 497px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
+    
+
+
 }
 
 .flex-container--3{
-    display: flex;
+    display:flex;
     flex-direction: row;
     width: 20px;
     height: 20px;
@@ -278,87 +280,80 @@ font-size: 17px;
     padding-top: 2px;
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-bod{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-
-}
-contai {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between; /* Adjust spacing as needed */
-    width: 100vw;
-    margin: 0 auto;
-}
-
-white {
-    display: flex;
-    flex-direction: column;
+.whiteboard-1{
+   
     background-color: white;
-    border: 1px solid #ccc;
-    padding: 20px;
-    width: 32%; /* Adjust width as needed */
-    margin: 10px;
-    box-sizing: border-box;
+    margin: 1px;
+    width: 367px;
+    height: 497px;
+    border-radius: 23px 23px 23px 23px;
+    padding-left: 0px;
 }
 
-cont {
+.content-1{
     display: flex;
     flex-direction: row;
-    align-items: center; /* Aligns elements vertically */
-    gap: 20px; /* Adjust spacing between elements */
+    padding-top: 6px;
+    padding-left: 18px;
 }
-h {
-    margin: 0; /* Remove default margins for both elements */
+.flex-container--5{
+    display: flex;
+    
+    width: 20px;
+    height: 20px;
+    gap:167px;
+    padding-left: 19px;
+    padding-top: 13px;
 }
-im{
-    width: 100%;
-    max-width: 200px; /* Adjust max-width as needed */
+.head-column-3{
+    padding-left:15px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
