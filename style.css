@@ -95,7 +95,7 @@ span{
 .image-the{
     width: 83px;
     height: 81px;
-
+    padding-top: 0;
     border-radius: 11px 11px 11px 11px;
 }
 .content{
@@ -122,8 +122,8 @@ span{
 .border{
     border-bottom: 1.6px solid;
     border-color:#DDDDDD;
-    inline-size: 320px;
-    margin-left: 25px;
+    inline-size: 336px;
+    margin-left: 27px;
     padding-top: 9px;
     
 }
@@ -209,7 +209,10 @@ gap:4px;
 
 }
 .re{
-    font-size: 17px;
+    padding-top: 2px;
+    font-size: 10px;
+    display: flex;
+    
 }
 .image-bi{
     width: 82px;
@@ -223,8 +226,8 @@ gap:4px;
 .border-1{
 border-bottom: 1.5px solid;
 border-color: #DDDDDD;
-inline-size: 320px;
-margin-left: 25px;
+inline-size: 336px;
+margin-left: 27px;
 padding-top: 13px;
 
 }
@@ -246,8 +249,8 @@ padding-top: 13px;
 .border-2{
     border-bottom: 1.5px solid;
     border-color: #DDDDDD;
-    inline-size: 320px;
-    margin-left: 25px;
+    inline-size: 336px;
+    margin-left: 27px;
     padding-top: 13px;
 
 }
@@ -309,9 +312,9 @@ font-size: 17px;
     flex-direction: row;
     width: 20px;
     height: 20px;
-    gap:164px;
+    gap:156px;
     padding-left: 5px;
-    padding-top: 1px;
+    padding-top: 10px;
 }
 .head-column-3{
     padding-left:15px;
@@ -333,7 +336,7 @@ font-size: 17px;
     display: flex;
     flex-direction: row;
     align-items: inline;
-    gap:22px;
+    gap:35px;
     font-size: 1px;
     padding-top: 19px;
     padding-left: 18px;
@@ -345,11 +348,90 @@ font-size: 17px;
 .image-who{
     
     
-    width: 79px;
+    width: 109px;
     height: 30px;
     flex-direction: row;
     background-color: transparent;
+    
 }
+.flex-container--6{
+    display: flex;
+    
+    
+    width: 20px;
+    height: 20px;
+    gap:131px;
+    padding-left: 10px;
+    padding-top: 12px;
+    
+}
+.head-column-4{
+    padding-left:15px;
+    display: flex;
+    flex-direction: row;
+    gap:2px;
+
+}
+.sp-4{
+    padding-left: 21px;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: row;
+    gap:114px;
+    padding-top: 7px;
+    padding-left: 18px;
+}
+.border-3{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+    padding-top: 13px;
+
+}
+.border-4{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+    padding-top: 13px;
+
+}
+
+.border-5{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+    padding-top: 13px;
+
+}
+.border-6{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+    padding-top: 13px;
+
+}
+.border-7{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+     padding-top: 13px;
+
+}
+.border-8{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 27px;
+    padding-top: 13px;
+
+}
+
+
 
 
 
