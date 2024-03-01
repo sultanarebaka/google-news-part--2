@@ -423,7 +423,7 @@ font-size: 17px;
     border-bottom: 1.5px solid;
     border-color: #DDDDDD;
     inline-size: 336px;
-    margin-left: 23px;
+    margin-left: 7px;
      padding-top: 13px;
 
 }
@@ -489,15 +489,67 @@ font-size: 17px;
 .sp-6{
     display: flex;
     flex-direction: row;
-    gap:166px;
-    padding-top: 7px;
+    gap:196px;
+    padding-top: 17px;
     padding-left: 1px;
 }
 .content-11{
     display: flex;
     flex-direction: row;
     padding-top: 6px;
-    padding-left: 29px;
+    padding-left: 19px;
+}
+
+.flex-container--8{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:195px;
+    padding-left: 10px;
+    padding-top: 13px;
+}
+.head-column-6{
+    padding-left:11px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+}
+.grief-9{
+    padding-left: 22px;
+}
+.flex-container--9{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:147px;
+    padding-left: 1px;
+    padding-top: 13px;
+}
+.head-column-7{
+    padding-left:1px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+}
+
+.grief-8{
+    padding-left: 4px;
+}
+
+.rere{
+    padding-top: 0px;
+    font-size: 14px;
+    display: flex;
+    
+}
+.spsp{
+    display: flex;
+    flex-direction: row;
+    gap:209px;
+    padding-top: 17px;
+    padding-left: 3px;
 }
 
 
@@ -508,10 +560,39 @@ font-size: 17px;
 
 
 
+.flex-container--10{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:147px;
+    padding-left: 1px;
+    padding-top: 13px;
+}
+.head-column-8{
+    padding-left:1px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+}
 
+.grief-g{
+    padding-left: 4px;
+}
 
-
-
+.bre{
+    padding-top: 0px;
+    font-size: 14px;
+    display: flex;
+    
+}
+.spd{
+    display: flex;
+    flex-direction: row;
+    gap:209px;
+    padding-top: 17px;
+    padding-left: 3px;
+}
 
 
 
