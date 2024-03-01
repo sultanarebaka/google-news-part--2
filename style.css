@@ -151,7 +151,9 @@ gap:4px;
     line-height:21px;
     font-size: 16px;
 }
-
+.lor{
+    font-size: 17px;
+}
 
 .grief{
     padding-left: 18px;
@@ -360,7 +362,7 @@ font-size: 17px;
     
     width: 20px;
     height: 20px;
-    gap:131px;
+    gap:150px;
     padding-left: 10px;
     padding-top: 12px;
     
@@ -372,13 +374,16 @@ font-size: 17px;
     gap:2px;
 
 }
+.sss{
+    
+    font-size: 13px;
+}
 .sp-4{
-    padding-left: 21px;
-    padding-top: 0px;
+    
     display: flex;
     flex-direction: row;
-    gap:114px;
-    padding-top: 7px;
+    gap:156px;
+    padding-top: 13px;
     padding-left: 18px;
 }
 .border-3{
@@ -431,9 +436,39 @@ font-size: 17px;
 
 }
 
+.flex-container--7{
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    gap:195px;
+    padding-left: 7px;
+    padding-top: 13px;
+}
+.head-column-5{
+    padding-left:15px;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+}
+.image-buzz{
+    width: 67px;
+    height: 27px;
 
-
-
+}
+.image-mi{
+    width: 83px;
+    height:83px;
+    border-radius: 11px 11px 11px 11px;
+}
+.sp-5{
+    display: flex;
+    flex-direction: row;
+    gap:133px;
+    padding-top: 13px;
+    padding-left: 18px;
+ 
+}
 
 
 
