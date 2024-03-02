@@ -126,17 +126,10 @@ display: flex;
 flex-direction: row;
 gap:4px;
 }
-.shoo{
-    line-height:21px;
-    font-size: 16px;
-}
-.lor{
-    font-size: 17px;
-}
 .grief{
     padding-left: 18px;
     padding-top: 10px;
-    
+    line-height: 22px;  
 }
 .sp-o{
     padding-left: 19px;
@@ -145,9 +138,6 @@ gap:4px;
     flex-direction: row;
     gap:35px;
     padding-top: 9px;
-}
-.excu{
-    font-size: 13px;
 }
 .img-fuuu{
     float:right;
@@ -164,7 +154,6 @@ gap:4px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
 }
-
 .image-ex{
     width: 17px;
     height: 17px;
@@ -173,7 +162,6 @@ gap:4px;
     width: 33px;
     height: 14px;
 }
-
 .re-w{
     padding-top: 2px;
     font-size: 16px;
@@ -184,23 +172,12 @@ gap:4px;
     height:81px;
     border-radius: 11px 11px 11px 11px;
 }
-.exc{
-    padding-left: 18px;
-}
-.uuss{
-    padding-left: 18px;
-}
 .border-1{
 border-bottom: 1.5px solid;
 border-color: #DDDDDD;
 inline-size: 336px;
 margin-left: 27px;
 padding-top: 13px;
-}
-.gb{
-    padding-top: 8px;
-    line-height: 22px;
-    padding-left: 3px;
 }
 .four{
     padding-left: 2px;
@@ -217,21 +194,12 @@ padding-top: 13px;
     height:81px;
     border-radius: 11px 11px 11px 11px;
 }
-.yooo{
-    padding-left: 18px;  
-}
 .sp-2{
     display: flex;
     flex-direction: row;
     gap:64px;
     padding-top: 7px;
     padding-left: 18px;
-}
-.trd{
-    padding-top: 2px;
-    line-height: 22px;
-    padding-left: 3px;
-
 }
 .img-full{
     float:right;
@@ -249,13 +217,6 @@ padding-top: 13px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
 }
-.content-1{
-    display: flex;
-    flex-direction: row;
-    padding-top: 6px;
-    padding-left: 18px;
-}
-
 .whiteboard-2{
     background-color: white;
     margin:1px;
@@ -265,7 +226,6 @@ padding-top: 13px;
     padding-left: 0px;
 }
 .sp-3{
-    
     display: flex;
     flex-direction: row;
     align-items: inline;
@@ -281,8 +241,7 @@ padding-top: 13px;
     width: 109px;
     height: 30px;
     flex-direction: row;
-    background-color: transparent;
-    
+    background-color: transparent;  
 }
 .sss{
     font-size: 13px;
@@ -300,7 +259,6 @@ padding-top: 13px;
     inline-size: 336px;
     margin-left: 27px;
     padding-top: 13px;
-
 }
 .border-4{
     border-bottom: 1.5px solid;
@@ -308,7 +266,6 @@ padding-top: 13px;
     inline-size: 336px;
     margin-left: 27px;
     padding-top: 13px;
-
 }
 .border-5{
     border-bottom: 1.5px solid;
@@ -341,7 +298,6 @@ padding-top: 13px;
     padding-top: 13px;
 
 }
-
 .image-buzz{
     width: 67px;
     height: 27px;
@@ -362,16 +318,13 @@ padding-top: 13px;
 .image-eeee{
     width: 11px;
     height: 11px;
-
 }
 .re-7{
     padding-top: 0px;
     font-size: 14px;
-    display: flex;
-    
+    display: flex;  
 }
-.img-vv{
-    
+.img-vv{ 
     width: 11px;
     height: 9px;
 }
@@ -382,27 +335,10 @@ padding-top: 13px;
     padding-top: 28px;
     padding-left: 1px;
 }
-.content-11{
-    display: flex;
-    flex-direction: row;
-    padding-top: 6px;
-    padding-left: 19px;
-}
-
-.grief-9{
-    padding-left: 22px;
-    padding-top: 2px;
-}
-
-.grief-8{
-    padding-left: 4px;
-    padding-top: 5px;
-}
 .rere{
     padding-top: 0px;
     font-size: 14px;
-    display: flex;
-    
+    display: flex;  
 }
 .spsp{
     display: flex;
@@ -410,10 +346,6 @@ padding-top: 13px;
     gap:209px;
     padding-top: 17px;
     padding-left: 3px;
-}
-.grief-g{
-    padding-left: 4px;
-    padding-top: 5px;
 }
 .bre{
     padding-top: 2px;
@@ -434,6 +366,9 @@ padding-top: 13px;
     margin-left: 9px;
     padding-top: 13px;
 
+}
+.excu{
+    font-size: 13px;
 }
 .img-vv{
     
