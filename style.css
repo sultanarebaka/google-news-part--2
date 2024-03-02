@@ -203,6 +203,11 @@ gap:4px;
     height: 17px;
 
 }
+.image-ccn{
+    width: 33px;
+    height: 14px;
+
+}
 .head-column-1{
     padding-left:15px;
     display: flex;
@@ -224,7 +229,9 @@ gap:4px;
 .hooo{
     padding-left: 18px;
 }
-
+.uuss{
+    padding-left: 18px;
+}
 .border-1{
 border-bottom: 1.5px solid;
 border-color: #DDDDDD;
@@ -244,9 +251,12 @@ padding-top: 13px;
     flex-direction: row;
     width: 20px;
     height: 20px;
-    gap:167px;
-    padding-left: 7px;
+    gap:229px;
+    padding-left: 22px;
     padding-top: 13px;
+}
+.four{
+    padding-left: 2px;
 }
 .border-2{
     border-bottom: 1.5px solid;
@@ -257,15 +267,17 @@ padding-top: 13px;
 
 }
 .head-column-2{
-    padding-left:15px;
+    padding-left:0px;
     display: flex;
     flex-direction: row;
     gap:4px;
 }
-
-.re-2{
-font-size: 17px;
+.image-u{
+    width: 82px;
+    height:81px;
+    border-radius: 11px 11px 11px 11px;
 }
+
 .yooo{
     padding-left: 18px;
     
@@ -275,12 +287,12 @@ font-size: 17px;
     padding-top: 0px;
     display: flex;
     flex-direction: row;
-    gap:4;
+    gap:64px;
     padding-top: 7px;
     padding-left: 18px;
 }
 .trd{
-    padding-top: 8px;
+    padding-top: 2px;
     line-height: 22px;
     padding-left: 3px;
 
@@ -490,7 +502,7 @@ font-size: 17px;
     display: flex;
     flex-direction: row;
     gap:196px;
-    padding-top: 17px;
+    padding-top: 28px;
     padding-left: 1px;
 }
 .content-11{
@@ -517,6 +529,7 @@ font-size: 17px;
 }
 .grief-9{
     padding-left: 22px;
+    padding-top: 2px;
 }
 .flex-container--9{
     display: flex;
@@ -536,6 +549,7 @@ font-size: 17px;
 
 .grief-8{
     padding-left: 4px;
+    padding-top: 5px;
 }
 
 .rere{
@@ -565,9 +579,9 @@ font-size: 17px;
     flex-direction: row;
     width: 20px;
     height: 20px;
-    gap:147px;
+    gap:210px;
     padding-left: 1px;
-    padding-top: 13px;
+    padding-top: 18px;
 }
 .head-column-8{
     padding-left:1px;
@@ -578,10 +592,11 @@ font-size: 17px;
 
 .grief-g{
     padding-left: 4px;
+    padding-top: 5px;
 }
 
 .bre{
-    padding-top: 0px;
+    padding-top: 2px;
     font-size: 14px;
     display: flex;
     
@@ -589,35 +604,33 @@ font-size: 17px;
 .spd{
     display: flex;
     flex-direction: row;
-    gap:209px;
+    gap:192px;
     padding-top: 17px;
     padding-left: 3px;
 }
 
+.border-8{
+    border-bottom: 1.5px solid;
+    border-color: #DDDDDD;
+    inline-size: 336px;
+    margin-left: 9px;
+    padding-top: 13px;
 
+}
 
+.img-vv{
+    
+    width: 11px;
+    height: 9px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.sp-1{
+    padding-left: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: inline-block;
+    gap:35px;
+    font-size: 2px;
+    padding-top: 19px;
+    padding-left: 18px;
+}
