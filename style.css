@@ -45,6 +45,7 @@ body{
 }
 .flex-container--2{
     display: flex;
+    align-items: inline;
     width: 20px;
     height: 20px;
     gap:17px;
@@ -94,13 +95,6 @@ span{
     padding-left: 92px;
     
 }
-.sp{
-    display: flex;
-    flex-direction: row;
-    gap:130px;
-    padding-top: 9px;
-    padding-left: 18px;
-}
 .border{
     border-bottom: 1.6px solid;
     border-color:#DDDDDD;
@@ -127,17 +121,11 @@ flex-direction: row;
 gap:4px;
 }
 .grief{
+    display: flex;
+    
     padding-left: 18px;
     padding-top: 10px;
     line-height: 22px;  
-}
-.sp-o{
-    padding-left: 19px;
-    display: flex;
-    align-items: inline;
-    flex-direction: row;
-    gap:35px;
-    padding-top: 9px;
 }
 .img-fuuu{
     float:right;
@@ -194,13 +182,6 @@ padding-top: 13px;
     height:81px;
     border-radius: 11px 11px 11px 11px;
 }
-.sp-2{
-    display: flex;
-    flex-direction: row;
-    gap:64px;
-    padding-top: 7px;
-    padding-left: 18px;
-}
 .img-full{
     float:right;
     width: 20px;
@@ -225,15 +206,6 @@ padding-top: 13px;
     border-radius: 23px 23px 23px 23px;
     padding-left: 0px;
 }
-.sp-3{
-    display: flex;
-    flex-direction: row;
-    align-items: inline;
-    gap:35px;
-    font-size: 1px;
-    padding-top: 19px;
-    padding-left: 18px;
-}
 .last{
     font-size: 13px;
 }
@@ -245,13 +217,6 @@ padding-top: 13px;
 }
 .sss{
     font-size: 13px;
-}
-.sp-4{ 
-    display: flex;
-    flex-direction: row;
-    gap:156px;
-    padding-top: 13px;
-    padding-left: 18px;
 }
 .border-3{
     border-bottom: 1.5px solid;
@@ -307,14 +272,6 @@ padding-top: 13px;
     height:83px;
     border-radius: 11px 11px 11px 11px;
 }
-.sp-5{
-    display: flex;
-    flex-direction: row;
-    gap:133px;
-    padding-top: 13px;
-    padding-left: 18px;
- 
-}
 .image-eeee{
     width: 11px;
     height: 11px;
@@ -328,36 +285,15 @@ padding-top: 13px;
     width: 11px;
     height: 9px;
 }
-.sp-6{
-    display: flex;
-    flex-direction: row;
-    gap:196px;
-    padding-top: 28px;
-    padding-left: 1px;
-}
 .rere{
     padding-top: 0px;
     font-size: 14px;
     display: flex;  
 }
-.spsp{
-    display: flex;
-    flex-direction: row;
-    gap:209px;
-    padding-top: 17px;
-    padding-left: 3px;
-}
 .bre{
     padding-top: 2px;
     font-size: 14px;
     display: flex; 
-}
-.spd{
-    display: flex;
-    flex-direction: row;
-    gap:192px;
-    padding-top: 17px;
-    padding-left: 3px;
 }
 .border-8{
     border-bottom: 1.5px solid;
@@ -371,11 +307,10 @@ padding-top: 13px;
     font-size: 13px;
 }
 .img-vv{
-    
     width: 11px;
     height: 9px;
 }
-.sp-1{
+.sp-4{
     padding-left: 3px;
     display: flex;
     flex-direction: row;
@@ -383,5 +318,29 @@ padding-top: 13px;
     gap:35px;
     font-size: 2px;
     padding-top: 19px;
+    padding-left: 18px;
+}
+.sp-3{
+    display: flex;
+    flex-direction: row;
+    align-items: inline;
+    gap:35px;
+    font-size: 1px;
+    padding-top: 19px;
+    padding-left: 18px;
+}
+.sp-o{
+    padding-left: 19px;
+    display: flex;
+    align-items: inline;
+    flex-direction: row;
+    gap:35px;
+    padding-top: 9px;
+}
+.sp{
+    display: flex;
+    flex-direction: row;
+    gap:130px;
+    padding-top: 9px;
     padding-left: 18px;
 }
