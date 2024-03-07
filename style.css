@@ -73,7 +73,7 @@ span{
 .img-grter{
     width: 20px;
     height: 20px;
-    padding-top: 10px;  
+    padding-top: 12px;  
 }
 .image-the{
     width: 83px;
@@ -116,14 +116,56 @@ gap:0px;
     font-size: 19px;
     font-family:"open sans, sans serif" ;
 }
+.en{
+    padding-top: 10px;
+    font-size: 21px;
+    font-family:"open sans, sans serif" ;
+}
 .grief{
 width:229px;
+display: flex;
 flex-direction: row;
 padding-left: 10px;
 padding-top: 0px;
 line-height: 1.3;  
 gap:20px;
 }
+.grief-1{
+    width:231px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-top: 0px;
+    line-height: 1.3;  
+    gap:1px;
+    }
+.grief-2{
+        width:231px;
+        display: flex;
+        flex-direction: row;
+        padding-left: 10px;
+        padding-top: 7px;
+        line-height: 1.3;  
+        gap:1px;
+        }
+.grief-3{
+    width:217px;
+        display: flex;
+        flex-direction: row;
+        padding-left: 10px;
+        padding-top: 7px;
+        line-height: 1.3;  
+        gap:1px;
+}       
+.grief-h{
+    width:230px;
+        display: flex;
+        flex-direction: row;
+        padding-left: 10px;
+        padding-top: 7px;
+        line-height: 1.3;  
+        gap:1px;
+}       
 .nd-image{
 flex-direction: row;
 }
@@ -143,12 +185,14 @@ flex-direction: row;
     padding-left: 0px;
 }
 .image-ex{
-    width: 17px;
-    height: 17px;
+    padding-top: .5px;
+    width: 19px;
+    height: 19px;
 }
 .image-ccn{
-    width: 33px;
+    width: 28px;
     height: 14px;
+    padding-left: 10px;
 }
 .re-w{
     padding-top: 2px;
@@ -160,22 +204,9 @@ flex-direction: row;
     height:81px;
     border-radius: 11px 11px 11px 11px;
 }
-.border-1{
-border-bottom: 1.5px solid;
-border-color: #DDDDDD;
-inline-size: 336px;
-margin-left: 27px;
-padding-top: 13px;
-}
+
 .four{
     padding-left: 2px;
-}
-.border-2{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
 }
 .image-u{
     width: 82px;
@@ -207,63 +238,20 @@ padding-top: 13px;
     padding-left: 0px;
 }
 .last{
-    font-size: 13px;
+    font-size: 14px;
 }
 .image-who{
     width: 109px;
     height: 30px;
     flex-direction: row;
-    background-color: transparent;  
+    background-color: transparent; 
+    padding-left: 11px; 
 }
 .sss{
     font-size: 13px;
 }
-.border-3{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
-}
-.border-4{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
-}
-.border-5{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
-
-}
-.border-6{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
-
-}
-.border-7{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 7px;
-     padding-top: 13px;
-}
-.border-8{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 27px;
-    padding-top: 13px;
-
-}
 .image-buzz{
+    padding-left: 10px;
     width: 67px;
     height: 27px;
 }
@@ -273,8 +261,9 @@ padding-top: 13px;
     border-radius: 11px 11px 11px 11px;
 }
 .image-eeee{
-    width: 11px;
-    height: 11px;
+    padding-top: 1px;
+    width: 9px;
+    height: 9px;
 }
 .re-7{
     padding-top: 0px;
@@ -295,14 +284,6 @@ padding-top: 13px;
     font-size: 14px;
     display: flex; 
 }
-.border-8{
-    border-bottom: 1.5px solid;
-    border-color: #DDDDDD;
-    inline-size: 336px;
-    margin-left: 9px;
-    padding-top: 13px;
-
-}
 .excu{
     font-size: 13px;
 }
@@ -317,8 +298,20 @@ padding-top: 13px;
     align-items: inline-block;
     gap:35px;
     font-size: 2px;
-    padding-top: 19px;
+    padding-top: 8px;
     padding-left: 18px;
+    padding-bottom: 2px;
+}
+.sp-5{
+    padding-left: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: inline-block;
+    gap:14px;
+    font-size: 2px;
+    padding-top: 13px;
+    padding-left: 18px;
+    padding-bottom: 2px;
 }
 .sp-3{
     display: flex;
@@ -343,4 +336,61 @@ padding-top: 13px;
     gap:130px;
     padding-top: 9px;
     padding-left: 18px;
+}
+.sp-2{
+    display: flex;
+    flex-direction: row;
+    gap:193px;
+    padding-top: 9px;
+    padding-left: 18px;
+}
+.sp-k{
+    display: flex;
+    flex-direction: row;
+    gap:199px;
+    padding-top: 9px;
+    padding-left: 18px;
+}
+.sp-p{
+    display: flex;
+    flex-direction: row;
+    gap:209px;
+    padding-top: 9px;
+    padding-left: 18px;
+}
+.sp-n{
+    display: flex;
+    flex-direction: row;
+    gap:220px;
+    padding-top: 9px;
+    padding-left: 18px;
+}
+.column-con{
+display: flex;
+flex-direction:column;
+}
+.re{
+    font-size: 17px;
+    padding-top: 2px;
+    display: flex;
+}
+.exre{
+    display: flex;
+    gap:0px;
+    padding-left: 8px;
+}
+.image-e{
+    padding-top: .5px;
+    width: 16px;
+    height: 16px;
+}
+.ere{
+    display: flex;
+    
+    padding-left: 8px;
+}
+.exrre{
+    display: flex;
+    gap:7px;
+    padding-left: 9px;
 }
